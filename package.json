@@ -1,0 +1,11 @@
+{
+  "name": "privateserver-modul-21-serverplikowstat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KamilMr/privateserver-modul-21-serverplikowstat.git",
+  "author": "Kamil Mrowka <kamil.mrowka@outlook.com.au>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
